@@ -11,7 +11,7 @@ from threading import Thread
 from gtts import gTTS
 from googletrans import Translator
 cl = LINETCR.LINE()
-cl.login(token="EpFVlYr1152GzNThGWDa.ScFjCUWZY2oU7YzWFlMgcG.41cRUpb+wCeKgk4pdZ2GbhC+V3fr7LqZIulprk88YL8=")
+cl.login(token="To2jROM8VKvIandFzbuVkeynp0fgOmdIuTnjkacUTSX=")
 cl.loginResult()
 
 #ki1 = LINETCR.LINE()
@@ -310,13 +310,13 @@ autoinvite = []
 autoleaveroom = []
 targets = []
 mid = cl.getProfile().mid
-Bots = ["ub027c972ec33cb63aeef26707cb9860a",mid]
-self = ["ub027c972ec33cb63aeef26707cb9860a",mid]
-admin = "ub027c972ec33cb63aeef26707cb9860a"
-admsa = "ub027c972ec33cb63aeef26707cb9860a"
-owner = "ub027c972ec33cb63aeef26707cb9860a"
-adminMID = "ub027c972ec33cb63aeef26707cb9860a"
-Creator="ub027c972ec33cb63aeef26707cb9860a"
+Bots = ["u1b81203c5964d44d51f24ff882971d82",mid]
+self = ["u1b81203c5964d44d51f24ff882971d82",mid]
+admin = "u1b81203c5964d44d51f24ff882971d82"
+admsa = "u1b81203c5964d44d51f24ff882971d82"
+owner = "u1b81203c5964d44d51f24ff882971d82"
+adminMID = "u1b81203c5964d44d51f24ff882971d82"
+Creator="u1b81203c5964d44d51f24ff882971d82"
 wait = {
     "alwayRead":False,
     "detectMention":True,    
@@ -331,7 +331,7 @@ wait = {
     'leaveRoom':True,
     'timeline':True,
     'autoAdd':False,
-    'message':"Thanks for add Me By:™ചচ✾ъπ່७✾ざণاعနัю❍ีざနT",
+    'message':"Thanks for add Me By:๛‘•NIT149๛‘•",
     "lang":"JP",
     "comment":"AutoLike by Phet",
     "commentOn":False,
@@ -344,7 +344,7 @@ wait = {
     "wblack":False,
     "dblack":False,
     "clock":False,
-    "cName":"™ചচ✾ъπ່७✾ざণاعနัю❍ีざန",
+    "cName":"๛‘•NIT149๛‘•",
     "likeOn":False,
     "pname":False,
     "blacklist":{},
